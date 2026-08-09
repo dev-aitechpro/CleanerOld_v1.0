@@ -7,12 +7,12 @@ using System.Windows;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набор атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("CleanerProWPF")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("CleanerOld_v1.0")]
+[assembly: AssemblyDescription("Cleaner System")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CleanerProWPF")]
-[assembly: AssemblyCopyright("Copyright ©  2026")]
+[assembly: AssemblyCompany("Нейрокод | Neuralis (Dev_Ai Tech)")]
+[assembly: AssemblyProduct("CleanerOld_v1.0")]
+[assembly: AssemblyCopyright("© 2026 Нейрокод | Neuralis (Dev_Ai Tech). Все права защищены.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

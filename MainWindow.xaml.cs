@@ -332,7 +332,7 @@ namespace CleanerProWPF
 
             string licenseText =
                 "ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ\n\n" +
-                "1. Данное ПО создано Павлом (Pavel Daily).\n" +
+                "1. Данное ПО создано Нейрокод | Neuralis (Dev_Ai Tech).\n" +
                 "2. ПО предоставляется БЕСПЛАТНО для ЛИЧНОГО НЕКОММЕРЧЕСКОГО использования.\n" +
                 "3. ЗАПРЕЩАЕТСЯ:\n" +
                 "   - Использование в коммерческих целях.\n" +
@@ -340,7 +340,7 @@ namespace CleanerProWPF
                 "   - Модификация и выдача за своё ПО.\n" +
                 "4. Автор не несёт ответственности за потерю данных.\n" +
                 "5. Используя ПО, вы соглашаетесь с условиями.\n\n" +
-                "© 2026 Pavel Daily. Все права защищены.";
+                "© 2026 Нейрокод | Neuralis (Dev_Ai Tech). Все права защищены.";
 
             var result = MessageBox.Show(licenseText, "📜 Лицензионное соглашение",
                 MessageBoxButton.YesNo, MessageBoxImage.Information, MessageBoxResult.Yes);
